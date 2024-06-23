@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ChristeenaGiji
+- 👀 I’m interested in Maths
+- 🌱 I’m currently learning new mathematical theories and their real-world applications
+- 💞️ I’m looking to collaborate on innovative math projects and educational initiatives
+- 📫 How to reach me christygiji5@gmail.com
+- 😄 Pronouns: She/her

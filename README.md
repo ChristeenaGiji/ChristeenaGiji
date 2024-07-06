@@ -11,7 +11,7 @@
 ✨ Visual Studio Code,Jupyter,ERP and Rstudio
 
   Databases
-✨DeMySQL, Microsoft SQL server
+✨ MySQL, Microsoft SQL server
 
   Cloud
 ✨Amazon AWS, Google Cloud

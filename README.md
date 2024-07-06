@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @ChristeenaGiji
-- 👀 I’m interested in Maths
-- 🌱 I’m currently learning new mathematical theories and their real-world applications
-- 💞️ I’m looking to collaborate on innovative math projects and educational initiatives
-- 📫 How to reach me christygiji5@gmail.com
-- 😄 Pronouns: She/her
+    🎓 About me
+✨ I'm Data Analyst ❤️
+✨ I'm enthusiastic about what I do and I constantly learn new things.
+✨ In my spare time, You'll find me staying up-to-date with tech news and love to travel.
+
+
+  Languages & Frameworks
+✨ Python,C++,R,SQL
+
+  Tools and Technoogies
+✨ Visual Studio Code,Jupyter,ERP and Rstudio
+
+  Databases
+✨DeMySQL, Microsoft SQL server
+
+  Cloud
+✨Amazon AWS, Google Cloud
+
+

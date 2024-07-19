@@ -8,7 +8,7 @@
 ✨ Python,C++,R,SQL
 
   Tools and Technoogies
-✨ Visual Studio Code,Jupyter,ERP and Rstudio
+✨ Snowflake,Visual Studio Code,Jupyter,ERP and Rstudio
 
   Databases
 ✨ MySQL, Microsoft SQL server

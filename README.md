@@ -5,7 +5,7 @@
 
 
   Languages & Frameworks
-✨ Python,C++,R,SQL
+✨ Python,C++,R,SQL,Java Script
 
   Tools and Technoogies
 ✨ Snowflake,Visual Studio Code,Jupyter,ERP and Rstudio
